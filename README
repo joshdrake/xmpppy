@@ -1,13 +1,3 @@
-This is an empty 'master' repository.
-If you did a 
-git clone git://......../xmpppy
-and got this instead - that means that you must do one more step:
-git checkout remotes/origin/<branchname>
-where <branchname> is one of following:
-    irc-transport
-    mail-transport
-    mxit-transport
-    skype-transport
-    xmppd.py
-    xmpppy
-    yahoo-transport
+Fork of http://github.com/snakeru/xmpppy to fix some annoying Python 2.6 deprecations.
+
+master branch is merged from xmpppy for convenience
